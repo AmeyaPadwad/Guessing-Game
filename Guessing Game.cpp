@@ -21,7 +21,7 @@ int main()
 
             if(usernum!=secretnum)
             {
-                cout<<"Wrong guess. Try again!"<<endl<<endl;
+                cout<<"Wrong guess."<<endl<<endl;
             }
 
             else
